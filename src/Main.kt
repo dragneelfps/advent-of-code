@@ -5,7 +5,8 @@ import kotlin.time.ExperimentalTime
 fun main(args: Array<String>) {
     val problems = listOf(
         Day1,
-        Day6
+        Day6,
+        Day7,
     )
 
     for (problem in problems) {
